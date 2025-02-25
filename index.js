@@ -15,7 +15,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="YOUR URL";
+var hostURL="https://vishhwacam-6894cc0f5c95.herokuapp.com";
 //TOGGLE for Shorters
 var use1pt=false;
 
